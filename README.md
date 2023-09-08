@@ -1,1 +1,1 @@
-# [open page](htpts://eriksscerbinins.github.io/Building_FrontEnd)
+# [open page](https://eriksscerbinins.github.io/Building_FrontEnd/)
